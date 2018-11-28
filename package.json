@@ -1,0 +1,14 @@
+{
+  "name": "criptoDigiByte",
+  "version": "1.0.0",
+  "description": "Funçoes de criptomoeda",
+  "main": "index.js",
+  "author": "Jefferson Barbosa",
+  "license": "MIT",
+  "dependencies": {
+    "digibyte": "^0.14.8",
+    "isomorphic-fetch": "^2.2.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
